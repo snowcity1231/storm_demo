@@ -1,0 +1,3 @@
+一个简单的storm示例，实现统计文件中单词出现次数
+
+com.xc.storm.esper新增了storm整合esper的案例，一个简单的demo实现从日志文件中统计每个浏览器的访客数
